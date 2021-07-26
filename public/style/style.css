@@ -1,0 +1,21 @@
+.container {
+    width: 500px;
+    background-color: aqua;
+    padding: 15PX;
+    margin-top: 50px;
+    
+}
+
+.form {
+    justify-content: center;
+    text-align: center;
+}
+
+.around {
+    text-align: end;
+}
+
+h2 {
+    color: gray;
+}
+
